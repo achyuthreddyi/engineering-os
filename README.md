@@ -109,3 +109,13 @@ This repository is intended for greenfield engineering work including:
 - data platforms
 
 The process should scale with project complexity. The ceremony should not.
+
+## Influences
+
+Engineering OS is my own workflow, shaped by how I like to separate architecture exploration, review, and implementation. Some of the ideas and patterns here are also influenced by open-source projects I have studied and used as references while building this system:
+
+- [obra/superpowers](https://github.com/obra/superpowers)
+- [mattpocock/skills](https://github.com/mattpocock/skills)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+
+This repository adapts those influences to my own engineering process rather than attempting to reproduce any one of them.
